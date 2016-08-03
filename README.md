@@ -1,3 +1,3 @@
 # Nome: Ricardo Sandrini
-# Empresa: Codes automação industrial
-# Função: Integrador
+# Instituição: Faculdade Impacta Tecnologia
+# Função: Aluno
